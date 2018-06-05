@@ -2,8 +2,6 @@
 #include<unistd.h>
 
 int main(void){
-
-printf("this is 1.c I");
-
+printf("this is 4.c");
 
 }
